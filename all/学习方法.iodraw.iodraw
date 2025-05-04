@@ -19,12 +19,6 @@
         <mxCell id="6WnzuzQYCy6xraRq1Yzy-4" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;当前状态&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="6WnzuzQYCy6xraRq1Yzy-5">
           <mxGeometry x="15" y="9.5" width="90" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="6WnzuzQYCy6xraRq1Yzy-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="705" y="314" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="6WnzuzQYCy6xraRq1Yzy-8" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;学习深度学习&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="323.5" width="90" height="41" as="geometry" />
-        </mxCell>
         <mxCell id="6WnzuzQYCy6xraRq1Yzy-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6WnzuzQYCy6xraRq1Yzy-9" target="6WnzuzQYCy6xraRq1Yzy-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -48,6 +42,15 @@
         </mxCell>
         <mxCell id="6WnzuzQYCy6xraRq1Yzy-16" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;当前状态&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="323.5" width="90" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="6WnzuzQYCy6xraRq1Yzy-17" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="706" y="314" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6WnzuzQYCy6xraRq1Yzy-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6WnzuzQYCy6xraRq1Yzy-17">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6WnzuzQYCy6xraRq1Yzy-8" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;学习深度学习&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="6WnzuzQYCy6xraRq1Yzy-17">
+          <mxGeometry x="15" y="9.5" width="90" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
