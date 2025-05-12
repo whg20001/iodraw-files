@@ -22,8 +22,8 @@
         <mxCell id="W8hVxjVx20K88IcINyuB-8" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;卷积层&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-951" y="60" width="228" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="W8hVxjVx20K88IcINyuB-9" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-967" y="524" width="60" height="30" as="geometry" />
+        <mxCell id="W8hVxjVx20K88IcINyuB-9" value="输出公式" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-967" y="514" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
