@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PvBFY9eB5t8URveCi_X9-138" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="959" width="120" height="161" as="geometry" />
+        </mxCell>
         <mxCell id="PvBFY9eB5t8URveCi_X9-11" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-30" y="95" width="120" height="60" as="geometry" />
         </mxCell>
@@ -314,7 +317,7 @@
           <mxGeometry x="1121" y="1129" width="54" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PvBFY9eB5t8URveCi_X9-133" value="Affine1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1183" y="1095" width="60" height="30" as="geometry" />
+          <mxGeometry x="1500" y="973" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PvBFY9eB5t8URveCi_X9-134" value="ReLU" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1183" y="1129" width="60" height="30" as="geometry" />
@@ -324,9 +327,6 @@
         </mxCell>
         <mxCell id="PvBFY9eB5t8URveCi_X9-136" value="forward" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1262" y="1129" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PvBFY9eB5t8URveCi_X9-138" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="959" width="120" height="161" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
