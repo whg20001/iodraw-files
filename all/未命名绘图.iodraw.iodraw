@@ -77,12 +77,12 @@
           <mxGeometry x="336" y="110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PvBFY9eB5t8URveCi_X9-32" value="W1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="435" y="161" width="60" height="30" as="geometry" />
+          <mxGeometry x="437" y="163" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PvBFY9eB5t8URveCi_X9-33" value="W1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="PvBFY9eB5t8URveCi_X9-33" value="B1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="336" y="166" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PvBFY9eB5t8URveCi_X9-34" value="W1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="PvBFY9eB5t8URveCi_X9-34" value="W2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="437" y="110" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
