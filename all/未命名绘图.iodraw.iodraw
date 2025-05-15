@@ -91,6 +91,21 @@
         <mxCell id="PvBFY9eB5t8URveCi_X9-36" value="生成层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="313" y="283" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="PvBFY9eB5t8URveCi_X9-37" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="322" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PvBFY9eB5t8URveCi_X9-38" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PvBFY9eB5t8URveCi_X9-37">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PvBFY9eB5t8URveCi_X9-39" value="Affien1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PvBFY9eB5t8URveCi_X9-37">
+          <mxGeometry y="15" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PvBFY9eB5t8URveCi_X9-40" value="forward" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="PvBFY9eB5t8URveCi_X9-37">
+          <mxGeometry x="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PvBFY9eB5t8URveCi_X9-41" value="backward" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="PvBFY9eB5t8URveCi_X9-37">
+          <mxGeometry x="60" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
