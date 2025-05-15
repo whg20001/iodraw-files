@@ -205,8 +205,14 @@
         <mxCell id="PvBFY9eB5t8URveCi_X9-77" value="X（数组）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="881" y="198.5" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="PvBFY9eB5t8URveCi_X9-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PvBFY9eB5t8URveCi_X9-88" target="PvBFY9eB5t8URveCi_X9-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PvBFY9eB5t8URveCi_X9-88" value="Affine1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="982" y="122" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PvBFY9eB5t8URveCi_X9-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PvBFY9eB5t8URveCi_X9-89" target="PvBFY9eB5t8URveCi_X9-95">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PvBFY9eB5t8URveCi_X9-89" value="ReLU" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="982" y="199" width="60" height="30" as="geometry" />
