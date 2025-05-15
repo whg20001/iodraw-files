@@ -4,18 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="PvBFY9eB5t8URveCi_X9-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-33" y="199" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PvBFY9eB5t8URveCi_X9-8" value="ReLU" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-33" y="214" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PvBFY9eB5t8URveCi_X9-9" value="forward" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="27" y="199" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PvBFY9eB5t8URveCi_X9-10" value="backward" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="27" y="229" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="PvBFY9eB5t8URveCi_X9-11" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-30" y="95" width="120" height="60" as="geometry" />
         </mxCell>
@@ -29,6 +17,36 @@
           <mxGeometry x="60" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PvBFY9eB5t8URveCi_X9-4" value="backward" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="PvBFY9eB5t8URveCi_X9-11">
+          <mxGeometry x="60" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PvBFY9eB5t8URveCi_X9-12" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-33" y="199" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PvBFY9eB5t8URveCi_X9-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PvBFY9eB5t8URveCi_X9-12">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PvBFY9eB5t8URveCi_X9-8" value="ReLU" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PvBFY9eB5t8URveCi_X9-12">
+          <mxGeometry y="15" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PvBFY9eB5t8URveCi_X9-9" value="forward" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="PvBFY9eB5t8URveCi_X9-12">
+          <mxGeometry x="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PvBFY9eB5t8URveCi_X9-10" value="backward" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="PvBFY9eB5t8URveCi_X9-12">
+          <mxGeometry x="60" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PvBFY9eB5t8URveCi_X9-13" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-23" y="209" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PvBFY9eB5t8URveCi_X9-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PvBFY9eB5t8URveCi_X9-13">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PvBFY9eB5t8URveCi_X9-15" value="ReLU" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PvBFY9eB5t8URveCi_X9-13">
+          <mxGeometry y="15" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PvBFY9eB5t8URveCi_X9-16" value="forward" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="PvBFY9eB5t8URveCi_X9-13">
+          <mxGeometry x="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PvBFY9eB5t8URveCi_X9-17" value="backward" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="PvBFY9eB5t8URveCi_X9-13">
           <mxGeometry x="60" y="30" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
