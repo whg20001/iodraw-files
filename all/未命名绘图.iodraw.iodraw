@@ -217,11 +217,14 @@
         <mxCell id="PvBFY9eB5t8URveCi_X9-89" value="ReLU" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="982" y="199" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="PvBFY9eB5t8URveCi_X9-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PvBFY9eB5t8URveCi_X9-90" target="PvBFY9eB5t8URveCi_X9-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PvBFY9eB5t8URveCi_X9-90" value="Affine2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="982" y="276" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PvBFY9eB5t8URveCi_X9-95" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1093" y="199" width="60" height="30" as="geometry" />
+        <mxCell id="PvBFY9eB5t8URveCi_X9-95" value="X（新的x）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1093" y="199" width="72" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
