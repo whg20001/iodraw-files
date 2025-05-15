@@ -286,8 +286,8 @@
         <mxCell id="PvBFY9eB5t8URveCi_X9-119" value="处理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1053" y="848" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PvBFY9eB5t8URveCi_X9-124" value="X（新的x）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="911" y="858" width="72" height="30" as="geometry" />
+        <mxCell id="PvBFY9eB5t8URveCi_X9-124" value="准确率" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1187" y="848" width="72" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
