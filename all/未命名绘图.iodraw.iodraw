@@ -196,35 +196,8 @@
         <mxCell id="PvBFY9eB5t8URveCi_X9-77" value="X（数组）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="881" y="198.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PvBFY9eB5t8URveCi_X9-78" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-20" y="105" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PvBFY9eB5t8URveCi_X9-79" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PvBFY9eB5t8URveCi_X9-78">
-          <mxGeometry width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PvBFY9eB5t8URveCi_X9-80" value="Affien" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PvBFY9eB5t8URveCi_X9-78">
-          <mxGeometry y="15" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PvBFY9eB5t8URveCi_X9-81" value="forward" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="PvBFY9eB5t8URveCi_X9-78">
-          <mxGeometry x="60" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PvBFY9eB5t8URveCi_X9-82" value="backward" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="PvBFY9eB5t8URveCi_X9-78">
-          <mxGeometry x="60" y="30" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PvBFY9eB5t8URveCi_X9-83" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-23" y="209" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PvBFY9eB5t8URveCi_X9-84" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PvBFY9eB5t8URveCi_X9-83">
-          <mxGeometry width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PvBFY9eB5t8URveCi_X9-85" value="ReLU" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PvBFY9eB5t8URveCi_X9-83">
-          <mxGeometry y="15" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PvBFY9eB5t8URveCi_X9-86" value="forward" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="PvBFY9eB5t8URveCi_X9-83">
-          <mxGeometry x="60" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PvBFY9eB5t8URveCi_X9-87" value="backward" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="PvBFY9eB5t8URveCi_X9-83">
-          <mxGeometry x="60" y="30" width="60" height="30" as="geometry" />
+        <mxCell id="PvBFY9eB5t8URveCi_X9-88" value="Affine1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="982" y="122" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
