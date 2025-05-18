@@ -416,7 +416,7 @@
           <mxGeometry x="-69" y="2400" width="331" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dkVzKgdVZPe457Lq-vEU-8" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;输出格式&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-319" y="2327" width="172" height="51" as="geometry" />
+          <mxGeometry x="-337" y="2295" width="172" height="51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
