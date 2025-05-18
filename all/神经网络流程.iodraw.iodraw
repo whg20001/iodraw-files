@@ -466,7 +466,7 @@
         <mxCell id="dkVzKgdVZPe457Lq-vEU-25" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;输出格式&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dkVzKgdVZPe457Lq-vEU-28">
           <mxGeometry x="1300" y="118" width="121" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="dkVzKgdVZPe457Lq-vEU-29" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+        <mxCell id="dkVzKgdVZPe457Lq-vEU-29" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;卷积层&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="-634" y="2436" width="165" height="55" as="geometry" />
         </mxCell>
       </root>
