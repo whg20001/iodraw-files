@@ -427,8 +427,8 @@
         <mxCell id="dkVzKgdVZPe457Lq-vEU-11" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;滤波器转矩阵&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="231" y="2275" width="133" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dkVzKgdVZPe457Lq-vEU-12" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="262" y="2349" width="60" height="30" as="geometry" />
+        <mxCell id="dkVzKgdVZPe457Lq-vEU-12" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;输出格式&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="231" y="2325" width="144" height="58" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
