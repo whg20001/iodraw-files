@@ -49,7 +49,7 @@
         <mxCell id="e-WqD-3Dqa6zgqDU55kh-15" value="（200，10）" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="724" y="120.5" width="137" height="156" as="geometry" />
         </mxCell>
-        <mxCell id="e-WqD-3Dqa6zgqDU55kh-17" value="（784， 200）" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="e-WqD-3Dqa6zgqDU55kh-17" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="896" y="120.5" width="137" height="156" as="geometry" />
         </mxCell>
         <mxCell id="e-WqD-3Dqa6zgqDU55kh-19" value="Sigmoid" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -59,7 +59,7 @@
           <mxGeometry x="743" y="90.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e-WqD-3Dqa6zgqDU55kh-21" value="view(-1, 784)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="293" y="168.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="293" y="168.5" width="81" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
