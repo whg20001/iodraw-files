@@ -14,7 +14,7 @@
           <mxGeometry width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e-WqD-3Dqa6zgqDU55kh-7" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="105" y="256" width="160" height="79" as="geometry" />
+          <mxGeometry x="154" y="410" width="160" height="79" as="geometry" />
         </mxCell>
         <mxCell id="e-WqD-3Dqa6zgqDU55kh-4" value="&lt;font size=&quot;1&quot;&gt;（64，）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="e-WqD-3Dqa6zgqDU55kh-7">
           <mxGeometry y="30" width="160" height="49" as="geometry" />
@@ -23,7 +23,10 @@
           <mxGeometry width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e-WqD-3Dqa6zgqDU55kh-9" value="（784， 200）" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="401" y="166" width="137" height="156" as="geometry" />
+          <mxGeometry x="399" y="105.5" width="137" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="e-WqD-3Dqa6zgqDU55kh-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e-WqD-3Dqa6zgqDU55kh-1" target="e-WqD-3Dqa6zgqDU55kh-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
