@@ -58,6 +58,9 @@
         <mxCell id="e-WqD-3Dqa6zgqDU55kh-20" value="Linear" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="743" y="90.5" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="e-WqD-3Dqa6zgqDU55kh-21" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="169" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
