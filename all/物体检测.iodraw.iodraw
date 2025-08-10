@@ -212,13 +212,13 @@
         <mxCell id="smGBjml5GzZ7AXt2R-f6-82" value="[batch, 7, 7, 9, (20+5)]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1974" y="261" width="158" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="smGBjml5GzZ7AXt2R-f6-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=1 1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="smGBjml5GzZ7AXt2R-f6-84" target="smGBjml5GzZ7AXt2R-f6-85">
+        <mxCell id="smGBjml5GzZ7AXt2R-f6-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="smGBjml5GzZ7AXt2R-f6-84" target="smGBjml5GzZ7AXt2R-f6-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="smGBjml5GzZ7AXt2R-f6-84" value="解码：tx, ty, tw, th, confidence" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="2251" y="260" width="184" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="smGBjml5GzZ7AXt2R-f6-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="smGBjml5GzZ7AXt2R-f6-85" target="smGBjml5GzZ7AXt2R-f6-87">
+        <mxCell id="smGBjml5GzZ7AXt2R-f6-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="smGBjml5GzZ7AXt2R-f6-85" target="smGBjml5GzZ7AXt2R-f6-87">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="smGBjml5GzZ7AXt2R-f6-85" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;tx_ty = preds[..., :2]&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
