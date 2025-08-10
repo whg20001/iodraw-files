@@ -51,6 +51,11 @@
         <mxCell id="smGBjml5GzZ7AXt2R-f6-24" value="7" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="393" y="305" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="smGBjml5GzZ7AXt2R-f6-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="smGBjml5GzZ7AXt2R-f6-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="754.3333435058594" y="278" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="smGBjml5GzZ7AXt2R-f6-25" value="512" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="589" y="263" width="60" height="30" as="geometry" />
         </mxCell>
@@ -59,9 +64,6 @@
         </mxCell>
         <mxCell id="smGBjml5GzZ7AXt2R-f6-28" value="224" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-51" y="267" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="smGBjml5GzZ7AXt2R-f6-29" value="3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="13" y="364" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
