@@ -236,6 +236,9 @@
         <mxCell id="smGBjml5GzZ7AXt2R-f6-90" value="解码：tx, ty, tw, th, confidence" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="2571" y="260.5" width="184" height="31" as="geometry" />
         </mxCell>
+        <mxCell id="smGBjml5GzZ7AXt2R-f6-91" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2459" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
