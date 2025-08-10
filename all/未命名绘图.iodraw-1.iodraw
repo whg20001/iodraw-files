@@ -191,6 +191,9 @@
         <mxCell id="smGBjml5GzZ7AXt2R-f6-76" value="Kx(C+5)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1723" y="253.5" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="smGBjml5GzZ7AXt2R-f6-78" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1687" y="27" width="172" height="87" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
