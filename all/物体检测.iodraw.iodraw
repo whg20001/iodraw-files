@@ -212,8 +212,13 @@
         <mxCell id="smGBjml5GzZ7AXt2R-f6-82" value="[batch, 7, 7, 9, (20+5)]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1974" y="261" width="158" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="smGBjml5GzZ7AXt2R-f6-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="smGBjml5GzZ7AXt2R-f6-84" target="smGBjml5GzZ7AXt2R-f6-85">
+        <mxCell id="smGBjml5GzZ7AXt2R-f6-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="smGBjml5GzZ7AXt2R-f6-84" target="smGBjml5GzZ7AXt2R-f6-85">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="smGBjml5GzZ7AXt2R-f6-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="smGBjml5GzZ7AXt2R-f6-84">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2526.999969482422" y="275.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="smGBjml5GzZ7AXt2R-f6-84" value="解码：tx, ty, tw, th, confidence" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="2251" y="260" width="184" height="31" as="geometry" />
