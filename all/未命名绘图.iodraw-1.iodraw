@@ -120,6 +120,9 @@
         <mxCell id="smGBjml5GzZ7AXt2R-f6-49" value="锚框宽高预定义" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="857.5" y="333" width="98" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="smGBjml5GzZ7AXt2R-f6-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="252" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
