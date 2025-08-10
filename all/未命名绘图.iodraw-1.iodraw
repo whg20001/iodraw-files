@@ -13,7 +13,7 @@
         <mxCell id="smGBjml5GzZ7AXt2R-f6-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="175" y="215.5" width="134" height="133" as="geometry" />
         </mxCell>
-        <mxCell id="smGBjml5GzZ7AXt2R-f6-11" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="smGBjml5GzZ7AXt2R-f6-11" value="提取模型特征" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="147" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
