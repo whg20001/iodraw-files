@@ -192,7 +192,7 @@
           <mxGeometry x="1723" y="253.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="smGBjml5GzZ7AXt2R-f6-78" value="K指的是K个候选框&lt;div&gt;C是样本类别数量&lt;/div&gt;&lt;div&gt;5一般固定指的是tx, ty, tw, th, confidence&lt;/div&gt;&lt;div&gt;tx, ty&amp;nbsp;&amp;nbsp;&lt;span style=&quot;white-space-collapse: preserve; background-color: initial;&quot;&gt;中心点偏移&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space-collapse: preserve; background-color: initial;&quot;&gt;tw, th &lt;/span&gt;&lt;span style=&quot;white-space-collapse: preserve; background-color: initial;&quot;&gt;宽高缩放，相对于锚框尺寸，使用指数变换&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space-collapse: preserve; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1616" y="-8" width="292" height="123" as="geometry" />
+          <mxGeometry x="1613" y="-8" width="292" height="123" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
