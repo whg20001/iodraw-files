@@ -114,8 +114,8 @@
         <mxCell id="smGBjml5GzZ7AXt2R-f6-47" value="(1,2)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="940" y="133" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="smGBjml5GzZ7AXt2R-f6-48" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="876.5" y="263" width="60" height="30" as="geometry" />
+        <mxCell id="smGBjml5GzZ7AXt2R-f6-48" value="(32, 64)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="876.5" y="267" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
