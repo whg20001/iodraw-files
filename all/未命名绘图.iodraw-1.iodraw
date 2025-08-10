@@ -183,7 +183,7 @@
         <mxCell id="smGBjml5GzZ7AXt2R-f6-75" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1670" y="213" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="smGBjml5GzZ7AXt2R-f6-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="smGBjml5GzZ7AXt2R-f6-76">
+        <mxCell id="smGBjml5GzZ7AXt2R-f6-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="smGBjml5GzZ7AXt2R-f6-76">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1753" y="144.42857142857144" as="targetPoint" />
           </mxGeometry>
