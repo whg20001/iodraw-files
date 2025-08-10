@@ -200,6 +200,9 @@
             <mxPoint x="1022" y="281" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="smGBjml5GzZ7AXt2R-f6-81" value="reshape" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1837" y="237" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
