@@ -248,7 +248,7 @@
         <mxCell id="8NEvL3vXSIe6--_78Ylg-1" value="根据confidence阈值筛选锚框" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="2857" y="260" width="184" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="8NEvL3vXSIe6--_78Ylg-3" value="根据confidence阈值筛选锚框" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="8NEvL3vXSIe6--_78Ylg-3" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;去除检测同一物体的重叠框&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="3167" y="260" width="184" height="31" as="geometry" />
         </mxCell>
       </root>
