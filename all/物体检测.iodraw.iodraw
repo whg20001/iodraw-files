@@ -254,8 +254,8 @@
         <mxCell id="kjyd1slgy2vHKcwGZ-wm-2" value="归一化增加稳定性" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2232.11" y="19" width="125.89" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kjyd1slgy2vHKcwGZ-wm-3" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="362" y="278" width="60" height="30" as="geometry" />
+        <mxCell id="kjyd1slgy2vHKcwGZ-wm-3" value="Resnet" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="205" y="392" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
