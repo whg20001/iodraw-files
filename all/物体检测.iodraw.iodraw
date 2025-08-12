@@ -257,8 +257,14 @@
         <mxCell id="kjyd1slgy2vHKcwGZ-wm-3" value="Resnet" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="205" y="392" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kjyd1slgy2vHKcwGZ-wm-4" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kjyd1slgy2vHKcwGZ-wm-4" value="224" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="880" y="392" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kjyd1slgy2vHKcwGZ-wm-5" value="224" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="761" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kjyd1slgy2vHKcwGZ-wm-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="794" y="436" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
