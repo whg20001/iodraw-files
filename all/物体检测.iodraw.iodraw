@@ -251,7 +251,7 @@
         <mxCell id="8NEvL3vXSIe6--_78Ylg-3" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;使用NMS去除检测同一物体的重叠框&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="3167" y="260" width="184" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="kjyd1slgy2vHKcwGZ-wm-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kjyd1slgy2vHKcwGZ-wm-2" value="归一化增加稳定性" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2232.11" y="-27" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
