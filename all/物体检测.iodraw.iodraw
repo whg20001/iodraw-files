@@ -272,6 +272,9 @@
         <mxCell id="TmG3fK_ABw0ji3ugX986-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="643" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TmG3fK_ABw0ji3ugX986-4" value="特征" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="658" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
