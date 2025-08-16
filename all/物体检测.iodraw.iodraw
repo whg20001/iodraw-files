@@ -333,7 +333,7 @@
           <mxGeometry x="18.25" y="7" width="81.5" height="38" as="geometry" />
         </mxCell>
         <mxCell id="TmG3fK_ABw0ji3ugX986-26" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-142" y="556" width="119" height="52" as="geometry" />
+          <mxGeometry x="-139" y="505" width="119" height="52" as="geometry" />
         </mxCell>
         <mxCell id="TmG3fK_ABw0ji3ugX986-27" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="TmG3fK_ABw0ji3ugX986-26">
           <mxGeometry width="119" height="52" as="geometry" />
@@ -342,12 +342,21 @@
           <mxGeometry x="18.25" y="7" width="81.5" height="38" as="geometry" />
         </mxCell>
         <mxCell id="TmG3fK_ABw0ji3ugX986-29" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-144" y="641" width="119" height="52" as="geometry" />
+          <mxGeometry x="-139" y="585" width="119" height="52" as="geometry" />
         </mxCell>
         <mxCell id="TmG3fK_ABw0ji3ugX986-30" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="TmG3fK_ABw0ji3ugX986-29">
           <mxGeometry width="119" height="52" as="geometry" />
         </mxCell>
         <mxCell id="TmG3fK_ABw0ji3ugX986-31" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;类别数&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="TmG3fK_ABw0ji3ugX986-29">
+          <mxGeometry x="18.25" y="7" width="81.5" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="TmG3fK_ABw0ji3ugX986-32" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-129" y="595" width="119" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="TmG3fK_ABw0ji3ugX986-33" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="TmG3fK_ABw0ji3ugX986-32">
+          <mxGeometry width="119" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="TmG3fK_ABw0ji3ugX986-34" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;类别数&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="TmG3fK_ABw0ji3ugX986-32">
           <mxGeometry x="18.25" y="7" width="81.5" height="38" as="geometry" />
         </mxCell>
       </root>
