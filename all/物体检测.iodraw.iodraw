@@ -332,8 +332,8 @@
         <mxCell id="TmG3fK_ABw0ji3ugX986-24" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;x&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="TmG3fK_ABw0ji3ugX986-21">
           <mxGeometry x="18.25" y="7" width="81.5" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="TmG3fK_ABw0ji3ugX986-25" value="特征提取函数" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-175" y="550" width="116" height="30" as="geometry" />
+        <mxCell id="TmG3fK_ABw0ji3ugX986-25" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;特征提取函数&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-175" y="550" width="116" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
