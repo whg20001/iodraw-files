@@ -329,7 +329,7 @@
         <mxCell id="TmG3fK_ABw0ji3ugX986-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="TmG3fK_ABw0ji3ugX986-21" vertex="1">
           <mxGeometry width="119" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="TmG3fK_ABw0ji3ugX986-24" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;x&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="TmG3fK_ABw0ji3ugX986-21" vertex="1">
+        <mxCell id="TmG3fK_ABw0ji3ugX986-24" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;features，&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(40, 42, 54); color: rgb(248, 248, 242); font-family: &amp;quot;JetBrains Mono Medium&amp;quot;, &amp;quot;Fira Code Regular&amp;quot;, Consolas, &amp;quot;Microsoft YaHei&amp;quot;, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; white-space: pre;&quot;&gt;classifier&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="TmG3fK_ABw0ji3ugX986-21" vertex="1">
           <mxGeometry x="18.25" y="7" width="81.5" height="38" as="geometry" />
         </mxCell>
         <mxCell id="TmG3fK_ABw0ji3ugX986-26" value="" style="group" parent="1" vertex="1" connectable="0">
