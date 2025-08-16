@@ -270,10 +270,10 @@
           <mxGeometry x="106" y="494" width="107.5" height="33" as="geometry" />
         </mxCell>
         <mxCell id="TmG3fK_ABw0ji3ugX986-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="447" y="850" width="73" height="32" as="geometry" />
+          <mxGeometry x="447" y="823" width="110" height="59" as="geometry" />
         </mxCell>
         <mxCell id="TmG3fK_ABw0ji3ugX986-6" value="平均池化层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="453.5" y="785" width="165.5" height="96" as="geometry" />
+          <mxGeometry x="453.5" y="851" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TmG3fK_ABw0ji3ugX986-8" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="367" y="602" width="119" height="52" as="geometry" />
