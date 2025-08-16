@@ -359,6 +359,9 @@
         <mxCell id="TmG3fK_ABw0ji3ugX986-34" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;类别数&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="TmG3fK_ABw0ji3ugX986-32">
           <mxGeometry x="18.25" y="7" width="81.5" height="38" as="geometry" />
         </mxCell>
+        <mxCell id="TmG3fK_ABw0ji3ugX986-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TmG3fK_ABw0ji3ugX986-27" target="TmG3fK_ABw0ji3ugX986-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
