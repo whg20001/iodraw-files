@@ -270,10 +270,10 @@
           <mxGeometry x="106" y="494" width="107.5" height="33" as="geometry" />
         </mxCell>
         <mxCell id="TmG3fK_ABw0ji3ugX986-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="447" y="805" width="73" height="32" as="geometry" />
+          <mxGeometry x="447" y="785" width="119" height="52" as="geometry" />
         </mxCell>
         <mxCell id="TmG3fK_ABw0ji3ugX986-4" value="特征" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="453.5" y="737" width="99.5" height="99" as="geometry" />
+          <mxGeometry x="453.5" y="806" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TmG3fK_ABw0ji3ugX986-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="447" y="850" width="73" height="32" as="geometry" />
