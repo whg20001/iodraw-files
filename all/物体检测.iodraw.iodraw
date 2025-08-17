@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="S3c4CaQV2tz442_GTAb_">
-    <mxGraphModel dx="2087" dy="993" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1834" dy="844" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -263,7 +263,7 @@
         <mxCell id="kjyd1slgy2vHKcwGZ-wm-5" value="224" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="761" y="220" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JCdMfJM6K_slYGsiBgcB-3" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="JCdMfJM6K_slYGsiBgcB-3" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-123" y="738" width="1326" height="242" as="geometry" />
         </mxCell>
         <mxCell id="TmG3fK_ABw0ji3ugX986-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="JCdMfJM6K_slYGsiBgcB-3" vertex="1">
@@ -372,6 +372,9 @@
         </mxCell>
         <mxCell id="TmG3fK_ABw0ji3ugX986-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="JCdMfJM6K_slYGsiBgcB-3" source="TmG3fK_ABw0ji3ugX986-33" target="TmG3fK_ABw0ji3ugX986-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NXd_ctHPd-488W-UqTP7-1" value="&lt;li&gt;&lt;strong&gt;前景（Foreground）&lt;/strong&gt;：锚框与真实目标（ground truth box）有较高重叠（IoU，Intersection over Union），通常表示包含目标物体。&lt;/li&gt;&#xa;&lt;li&gt;&lt;strong&gt;背景（Background）&lt;/strong&gt;：锚框与所有真实目标的 IoU 较低，通常表示不包含目标物体。&lt;/li&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-9" y="1235" width="550" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
