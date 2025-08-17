@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="S3c4CaQV2tz442_GTAb_">
-    <mxGraphModel dx="1834" dy="844" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2087" dy="993" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -375,6 +375,9 @@
         </mxCell>
         <mxCell id="NXd_ctHPd-488W-UqTP7-1" value="&lt;li style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;strong style=&quot;&quot;&gt;前景（Foreground）&lt;/strong&gt;：锚框与真实目标（ground truth box）有较高重叠（IoU，Intersection over Union），通常表示包含目标物体。&lt;/font&gt;&lt;/li&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;li style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;strong style=&quot;&quot;&gt;背景（Background）&lt;/strong&gt;：锚框与所有真实目标的 IoU 较低，通常表示不包含目标物体。&lt;/font&gt;&lt;/li&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-123" y="599" width="794" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="NXd_ctHPd-488W-UqTP7-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-27" y="1107" width="1175" height="365" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
