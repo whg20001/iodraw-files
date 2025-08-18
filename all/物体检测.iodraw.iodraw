@@ -400,17 +400,23 @@
         <mxCell id="CbV83uptgfmcaZdSxV7D-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;VGG16ROIHead&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-4" y="1684" width="192" height="71" as="geometry" />
         </mxCell>
+        <mxCell id="CbV83uptgfmcaZdSxV7D-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CbV83uptgfmcaZdSxV7D-3" target="CbV83uptgfmcaZdSxV7D-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CbV83uptgfmcaZdSxV7D-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;n_class&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-241" y="1755" width="120" height="60" as="geometry" />
+          <mxGeometry x="-240" y="1784.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CbV83uptgfmcaZdSxV7D-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;roi_size&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-241" y="1851" width="120" height="60" as="geometry" />
+          <mxGeometry x="-240" y="1880.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CbV83uptgfmcaZdSxV7D-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;spatial_scale&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-241" y="1947" width="120" height="60" as="geometry" />
+          <mxGeometry x="-240" y="1976.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CbV83uptgfmcaZdSxV7D-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;classifier&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-243" y="2043" width="120" height="60" as="geometry" />
+          <mxGeometry x="-242" y="2072.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CbV83uptgfmcaZdSxV7D-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.582;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CbV83uptgfmcaZdSxV7D-4" target="CbV83uptgfmcaZdSxV7D-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
