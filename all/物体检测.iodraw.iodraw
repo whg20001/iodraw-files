@@ -437,7 +437,12 @@
           <mxGeometry x="41" y="1792" width="120" height="56" as="geometry" />
         </mxCell>
         <mxCell id="CbV83uptgfmcaZdSxV7D-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CbV83uptgfmcaZdSxV7D-14" target="CbV83uptgfmcaZdSxV7D-68">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="102" y="1662" />
+              <mxPoint x="1722" y="1662" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="CbV83uptgfmcaZdSxV7D-14" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;cls_loc&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="41" y="1880.5" width="122" height="97.5" as="geometry" />
