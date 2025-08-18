@@ -406,8 +406,11 @@
         <mxCell id="CbV83uptgfmcaZdSxV7D-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;roi_size&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-241" y="1851" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CbV83uptgfmcaZdSxV7D-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;roi_size&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CbV83uptgfmcaZdSxV7D-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;spatial_scale&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-241" y="1947" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CbV83uptgfmcaZdSxV7D-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;spatial_scale&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-231" y="1957" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
