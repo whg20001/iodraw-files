@@ -661,8 +661,11 @@
         <mxCell id="s_g0h7cBrAxyQW-xXbvj-8" value="判定是否是M" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="362" y="3094" width="118" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="s_g0h7cBrAxyQW-xXbvj-11" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="s_g0h7cBrAxyQW-xXbvj-11" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="457" y="3050" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s_g0h7cBrAxyQW-xXbvj-12" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="457" y="3185" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
