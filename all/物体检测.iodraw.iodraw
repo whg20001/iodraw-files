@@ -652,8 +652,17 @@
         <mxCell id="s_g0h7cBrAxyQW-xXbvj-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="534" y="3152" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="s_g0h7cBrAxyQW-xXbvj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s_g0h7cBrAxyQW-xXbvj-8" target="s_g0h7cBrAxyQW-xXbvj-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s_g0h7cBrAxyQW-xXbvj-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s_g0h7cBrAxyQW-xXbvj-8" target="s_g0h7cBrAxyQW-xXbvj-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="s_g0h7cBrAxyQW-xXbvj-8" value="判定是否是M" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="362" y="3094" width="118" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="s_g0h7cBrAxyQW-xXbvj-11" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="457" y="3050" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
