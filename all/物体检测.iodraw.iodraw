@@ -649,14 +649,13 @@
         <mxCell id="s_g0h7cBrAxyQW-xXbvj-6" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;最大池化层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="608" y="3042" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="s_g0h7cBrAxyQW-xXbvj-7" value="卷积层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="608" y="3155" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="s_g0h7cBrAxyQW-xXbvj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s_g0h7cBrAxyQW-xXbvj-8" target="s_g0h7cBrAxyQW-xXbvj-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="s_g0h7cBrAxyQW-xXbvj-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s_g0h7cBrAxyQW-xXbvj-8" target="s_g0h7cBrAxyQW-xXbvj-7">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="s_g0h7cBrAxyQW-xXbvj-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s_g0h7cBrAxyQW-xXbvj-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="608" y="3185" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="s_g0h7cBrAxyQW-xXbvj-8" value="判定是否是M" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="436" y="3097" width="118" height="55" as="geometry" />
@@ -666,6 +665,9 @@
         </mxCell>
         <mxCell id="s_g0h7cBrAxyQW-xXbvj-12" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530.5" y="3176" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s_g0h7cBrAxyQW-xXbvj-13" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="617" y="3146" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
