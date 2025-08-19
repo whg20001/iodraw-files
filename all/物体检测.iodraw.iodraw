@@ -793,9 +793,6 @@
         <mxCell id="s_g0h7cBrAxyQW-xXbvj-68" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3410" y="2361" width="736" height="704" as="geometry" />
         </mxCell>
-        <mxCell id="s_g0h7cBrAxyQW-xXbvj-69" value="你channels" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-3294" y="2504" width="178" height="73" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
