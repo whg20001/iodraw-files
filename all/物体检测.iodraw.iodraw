@@ -672,7 +672,7 @@
         <mxCell id="s_g0h7cBrAxyQW-xXbvj-14" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;cfg&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="331" y="3047.5" width="91" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="s_g0h7cBrAxyQW-xXbvj-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="s_g0h7cBrAxyQW-xXbvj-15" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;batch_norm&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="331" y="3160" width="91" height="49" as="geometry" />
         </mxCell>
       </root>
