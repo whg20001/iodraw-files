@@ -825,11 +825,14 @@
         <mxCell id="s_g0h7cBrAxyQW-xXbvj-124" value="mode=&#39;training&#39;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="-3324" y="2841" width="119" height="52" as="geometry" />
         </mxCell>
+        <mxCell id="s_g0h7cBrAxyQW-xXbvj-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s_g0h7cBrAxyQW-xXbvj-125" target="s_g0h7cBrAxyQW-xXbvj-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="s_g0h7cBrAxyQW-xXbvj-125" value="anchor_base" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="-3151" y="2650" width="119" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="s_g0h7cBrAxyQW-xXbvj-131" value="anchor_base" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="-3141" y="2660" width="119" height="52" as="geometry" />
+        <mxCell id="s_g0h7cBrAxyQW-xXbvj-131" value="n_anchro" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-2973" y="2650" width="119" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
