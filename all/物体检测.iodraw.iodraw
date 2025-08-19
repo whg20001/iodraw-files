@@ -778,7 +778,7 @@
         <mxCell id="s_g0h7cBrAxyQW-xXbvj-32" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;layers&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="802.5" y="3076" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="s_g0h7cBrAxyQW-xXbvj-62" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="s_g0h7cBrAxyQW-xXbvj-62" value="加载" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1675" y="2968" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
