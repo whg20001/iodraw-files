@@ -641,7 +641,7 @@
           <mxGeometry x="-76" y="2715" width="161" height="66" as="geometry" />
         </mxCell>
         <mxCell id="s_g0h7cBrAxyQW-xXbvj-27" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="948" y="2957" width="1182" height="296" as="geometry" />
+          <mxGeometry x="948" y="2957" width="572" height="296" as="geometry" />
         </mxCell>
         <mxCell id="s_g0h7cBrAxyQW-xXbvj-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="s_g0h7cBrAxyQW-xXbvj-29" target="s_g0h7cBrAxyQW-xXbvj-30">
           <mxGeometry relative="1" as="geometry" />
