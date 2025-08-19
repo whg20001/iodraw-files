@@ -652,7 +652,7 @@
         <mxCell id="s_g0h7cBrAxyQW-xXbvj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s_g0h7cBrAxyQW-xXbvj-8" target="s_g0h7cBrAxyQW-xXbvj-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="s_g0h7cBrAxyQW-xXbvj-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s_g0h7cBrAxyQW-xXbvj-8">
+        <mxCell id="s_g0h7cBrAxyQW-xXbvj-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s_g0h7cBrAxyQW-xXbvj-8" target="s_g0h7cBrAxyQW-xXbvj-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="608" y="3185" as="targetPoint" />
           </mxGeometry>
@@ -667,7 +667,7 @@
           <mxGeometry x="530.5" y="3176" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s_g0h7cBrAxyQW-xXbvj-13" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="617" y="3146" width="80" height="80" as="geometry" />
+          <mxGeometry x="608" y="3146" width="129" height="58" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
