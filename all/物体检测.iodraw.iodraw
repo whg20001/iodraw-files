@@ -641,7 +641,7 @@
           <mxGeometry x="-330" y="2880" width="161" height="66" as="geometry" />
         </mxCell>
         <mxCell id="s_g0h7cBrAxyQW-xXbvj-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="302" y="3018" width="517" height="286" as="geometry" />
+          <mxGeometry x="302" y="3018" width="642" height="286" as="geometry" />
         </mxCell>
         <mxCell id="s_g0h7cBrAxyQW-xXbvj-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;特征提取部分&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="302" y="2977" width="130" height="41" as="geometry" />
@@ -668,6 +668,9 @@
         </mxCell>
         <mxCell id="s_g0h7cBrAxyQW-xXbvj-13" value="是否使用" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="608" y="3146" width="129" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="s_g0h7cBrAxyQW-xXbvj-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="316" y="3047" width="91" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
