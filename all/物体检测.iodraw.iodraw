@@ -640,6 +640,9 @@
         <mxCell id="s_g0h7cBrAxyQW-xXbvj-3" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;VGG16结构&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-330" y="2880" width="161" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="s_g0h7cBrAxyQW-xXbvj-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="3089" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
