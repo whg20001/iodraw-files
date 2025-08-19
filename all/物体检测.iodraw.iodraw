@@ -666,7 +666,7 @@
         <mxCell id="s_g0h7cBrAxyQW-xXbvj-12" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530.5" y="3176" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="s_g0h7cBrAxyQW-xXbvj-13" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="s_g0h7cBrAxyQW-xXbvj-13" value="是否使用" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="608" y="3146" width="129" height="58" as="geometry" />
         </mxCell>
       </root>
