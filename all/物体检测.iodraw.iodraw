@@ -904,6 +904,9 @@
         <mxCell id="CEb254hmklbfIBLPZGwk-4" value="softmax" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2766" y="2516" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="CEb254hmklbfIBLPZGwk-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CEb254hmklbfIBLPZGwk-5" target="CEb254hmklbfIBLPZGwk-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CEb254hmklbfIBLPZGwk-5" value="rpn_fg_scores" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-2689" y="2621" width="119" height="52" as="geometry" />
         </mxCell>
@@ -911,7 +914,10 @@
           <mxGeometry x="-2616" y="2582" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CEb254hmklbfIBLPZGwk-8" value="rpn_fg_scores" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-2679" y="2631" width="119" height="52" as="geometry" />
+          <mxGeometry x="-2689" y="2710" width="119" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="CEb254hmklbfIBLPZGwk-10" value="x4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2616" y="2677" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
