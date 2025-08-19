@@ -916,7 +916,7 @@
         <mxCell id="CEb254hmklbfIBLPZGwk-8" value="rpn_fg_scores" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-2689" y="2710" width="119" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="CEb254hmklbfIBLPZGwk-10" value="x4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="CEb254hmklbfIBLPZGwk-10" value="view，前景所有框" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2616" y="2677" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
