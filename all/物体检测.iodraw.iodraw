@@ -949,6 +949,9 @@
         <mxCell id="ssghElaUCgSlwY9DRHpp-10" value="nums_iou=0.7" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2629" y="2540" width="87" height="46" as="geometry" />
         </mxCell>
+        <mxCell id="ssghElaUCgSlwY9DRHpp-11" value="n_train_pre_nums=12000" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2658" y="2621" width="149" height="46" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
