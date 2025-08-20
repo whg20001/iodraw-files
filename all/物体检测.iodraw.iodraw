@@ -952,6 +952,12 @@
         <mxCell id="ssghElaUCgSlwY9DRHpp-11" value="n_train_pre_nums=12000" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2658" y="2621" width="149" height="46" as="geometry" />
         </mxCell>
+        <mxCell id="ssghElaUCgSlwY9DRHpp-12" value="n_train_post_nums=600" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2658" y="2708" width="149" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="ssghElaUCgSlwY9DRHpp-13" value="n_test_pro_nums=3000" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2919" y="2797" width="149" height="46" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
