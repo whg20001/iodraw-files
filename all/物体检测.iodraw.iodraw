@@ -1100,6 +1100,15 @@
         <mxCell id="ssghElaUCgSlwY9DRHpp-53" value="切片" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1894" y="3053" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ssghElaUCgSlwY9DRHpp-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ssghElaUCgSlwY9DRHpp-54" target="ssghElaUCgSlwY9DRHpp-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2834" y="3807" />
+              <mxPoint x="-1992" y="3807" />
+              <mxPoint x="-1992" y="2944" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ssghElaUCgSlwY9DRHpp-54" value="anchor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-2893" y="3680" width="119" height="52" as="geometry" />
         </mxCell>
