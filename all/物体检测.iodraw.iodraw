@@ -1109,6 +1109,9 @@
         <mxCell id="ssghElaUCgSlwY9DRHpp-65" value="relu" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2829" y="3274" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ssghElaUCgSlwY9DRHpp-66" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;x&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-2616" y="3348" width="119" height="52" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
