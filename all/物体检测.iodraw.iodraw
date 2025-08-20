@@ -1195,6 +1195,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ssghElaUCgSlwY9DRHpp-89" value="rois_indices" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-2154" y="3447" width="119" height="52" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
