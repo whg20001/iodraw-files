@@ -1198,8 +1198,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ssghElaUCgSlwY9DRHpp-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ssghElaUCgSlwY9DRHpp-89" target="ssghElaUCgSlwY9DRHpp-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ssghElaUCgSlwY9DRHpp-89" value="batch_index" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-1954" y="3437" width="119" height="52" as="geometry" />
+          <mxGeometry x="-1966" y="3403" width="119" height="52" as="geometry" />
         </mxCell>
         <mxCell id="ssghElaUCgSlwY9DRHpp-91" value="i*torch.ones" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2023" y="3341" width="60" height="30" as="geometry" />
