@@ -923,14 +923,17 @@
         <mxCell id="s_g0h7cBrAxyQW-xXbvj-150" value="&lt;span style=&quot;color: rgb(51, 51, 51);&quot;&gt;feat_stride&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-3105" y="3680" width="119" height="52" as="geometry" />
         </mxCell>
+        <mxCell id="ssghElaUCgSlwY9DRHpp-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CEb254hmklbfIBLPZGwk-2" target="CEb254hmklbfIBLPZGwk-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CEb254hmklbfIBLPZGwk-2" value="rpn_softmax_scores" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-2411" y="3714" width="119" height="52" as="geometry" />
         </mxCell>
         <mxCell id="CEb254hmklbfIBLPZGwk-5" value="rpn_fg_scores" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-2405.5" y="3622" width="119" height="52" as="geometry" />
+          <mxGeometry x="-2411" y="3622" width="119" height="52" as="geometry" />
         </mxCell>
         <mxCell id="CEb254hmklbfIBLPZGwk-7" value="筛选前景" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-2147" y="3447" width="60" height="30" as="geometry" />
+          <mxGeometry x="-2327" y="3680" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CEb254hmklbfIBLPZGwk-8" value="rpn_fg_scores" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-2220" y="3575" width="119" height="52" as="geometry" />
