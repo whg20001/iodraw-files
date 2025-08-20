@@ -1118,6 +1118,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ssghElaUCgSlwY9DRHpp-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ssghElaUCgSlwY9DRHpp-54" target="ssghElaUCgSlwY9DRHpp-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2833" y="3841" />
+              <mxPoint x="-2469" y="3841" />
+              <mxPoint x="-2469" y="3789" />
+              <mxPoint x="-2134" y="3789" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ssghElaUCgSlwY9DRHpp-54" value="anchor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-2893" y="3680" width="119" height="52" as="geometry" />
         </mxCell>
