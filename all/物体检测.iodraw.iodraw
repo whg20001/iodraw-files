@@ -1011,7 +1011,7 @@
         <mxCell id="ssghElaUCgSlwY9DRHpp-29" value="限制边框出界" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2066" y="2447" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ssghElaUCgSlwY9DRHpp-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ssghElaUCgSlwY9DRHpp-31">
+        <mxCell id="ssghElaUCgSlwY9DRHpp-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="ssghElaUCgSlwY9DRHpp-31">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1825.2222222222226" y="2601" as="targetPoint" />
           </mxGeometry>
@@ -1026,7 +1026,10 @@
           <mxGeometry x="-1982" y="2684" width="88" height="46" as="geometry" />
         </mxCell>
         <mxCell id="ssghElaUCgSlwY9DRHpp-36" value="筛选" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1925" y="2639" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1883" y="2640" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ssghElaUCgSlwY9DRHpp-39" value="排序" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1910" y="2546" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
