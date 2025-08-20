@@ -1201,7 +1201,7 @@
         <mxCell id="ssghElaUCgSlwY9DRHpp-89" value="batch_index" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-1958" y="3341" width="119" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="ssghElaUCgSlwY9DRHpp-91" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ssghElaUCgSlwY9DRHpp-91" value="i*torch.ones" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2034" y="3341" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
