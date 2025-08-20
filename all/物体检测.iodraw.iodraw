@@ -791,7 +791,7 @@
           <mxGeometry x="-5593" y="2440" width="1974" height="559" as="geometry" />
         </mxCell>
         <mxCell id="s_g0h7cBrAxyQW-xXbvj-68" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-3338" y="3326" width="1191" height="492" as="geometry" />
+          <mxGeometry x="-3338" y="3326" width="1227" height="492" as="geometry" />
         </mxCell>
         <mxCell id="s_g0h7cBrAxyQW-xXbvj-148" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-3123" y="3331" width="372" height="168" as="geometry" />
@@ -924,7 +924,7 @@
         <mxCell id="CEb254hmklbfIBLPZGwk-7" value="筛选前景" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-2570" y="3490" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CEb254hmklbfIBLPZGwk-8" value="rpn_fg_scores" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="CEb254hmklbfIBLPZGwk-8" value="rpn_fg_scores" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-2643" y="3618" width="119" height="52" as="geometry" />
         </mxCell>
         <mxCell id="CEb254hmklbfIBLPZGwk-10" value="view，前景所有框" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -1086,7 +1086,7 @@
         <mxCell id="ssghElaUCgSlwY9DRHpp-54" value="anchor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-2893" y="3680" width="119" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="ssghElaUCgSlwY9DRHpp-57" value="roi" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="ssghElaUCgSlwY9DRHpp-57" value="roi" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-2349" y="3433" width="119" height="52" as="geometry" />
         </mxCell>
       </root>
