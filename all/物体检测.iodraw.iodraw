@@ -1121,10 +1121,9 @@
         <mxCell id="ssghElaUCgSlwY9DRHpp-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ssghElaUCgSlwY9DRHpp-54" target="ssghElaUCgSlwY9DRHpp-61">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-2833" y="3841" />
-              <mxPoint x="-2469" y="3841" />
-              <mxPoint x="-2469" y="3789" />
-              <mxPoint x="-2134" y="3789" />
+              <mxPoint x="-2718" y="3706" />
+              <mxPoint x="-2718" y="3841" />
+              <mxPoint x="-2134" y="3841" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1221,7 +1220,7 @@
         <mxCell id="ssghElaUCgSlwY9DRHpp-91" value="i*torch.ones" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2023" y="3341" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ssghElaUCgSlwY9DRHpp-92" value="batch_index" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="ssghElaUCgSlwY9DRHpp-92" value="rois" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-1835" y="3338" width="119" height="52" as="geometry" />
         </mxCell>
         <mxCell id="ssghElaUCgSlwY9DRHpp-94" value="cat" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
