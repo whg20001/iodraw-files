@@ -183,11 +183,8 @@
             <mxPoint x="602" y="1620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RoXCElLQTJCKiER2ssLg-63" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="1621" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="RoXCElLQTJCKiER2ssLg-64" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="9" y="1895" width="60" height="30" as="geometry" />
+          <mxGeometry x="599" y="1625" width="467" height="72" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
