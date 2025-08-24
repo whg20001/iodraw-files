@@ -183,7 +183,7 @@
             <mxPoint x="602" y="1620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RoXCElLQTJCKiER2ssLg-64" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="RoXCElLQTJCKiER2ssLg-64" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;这个部分删除后就退化成了MLP&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="599" y="1625" width="467" height="72" as="geometry" />
         </mxCell>
       </root>
