@@ -180,8 +180,14 @@
         <mxCell id="RoXCElLQTJCKiER2ssLg-62" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RoXCElLQTJCKiER2ssLg-61">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="633" y="1723" as="sourcePoint" />
-            <mxPoint x="683" y="1673" as="targetPoint" />
+            <mxPoint x="602" y="1620" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RoXCElLQTJCKiER2ssLg-63" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1621" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RoXCElLQTJCKiER2ssLg-64" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="9" y="1895" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
