@@ -79,8 +79,8 @@
         <mxCell id="e7FZ7yTMrjuhfx7ml-sJ-28" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1486" y="216" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e7FZ7yTMrjuhfx7ml-sJ-29" value="随机数组" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1516" y="231" width="60" height="30" as="geometry" />
+        <mxCell id="e7FZ7yTMrjuhfx7ml-sJ-29" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;随机数组&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1506" y="225" width="80" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
