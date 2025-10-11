@@ -37,6 +37,9 @@
         <mxCell id="e7FZ7yTMrjuhfx7ml-sJ-10" value="Xavier" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="e7FZ7yTMrjuhfx7ml-sJ-11">
           <mxGeometry width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="e7FZ7yTMrjuhfx7ml-sJ-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="441" y="189" width="889" height="174" as="geometry" />
+        </mxCell>
         <mxCell id="e7FZ7yTMrjuhfx7ml-sJ-12" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="212" y="523" width="120" height="60" as="geometry" />
         </mxCell>
@@ -52,9 +55,6 @@
         <mxCell id="e7FZ7yTMrjuhfx7ml-sJ-16" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: &amp;quot;JetBrains Mono Medium&amp;quot;, &amp;quot;Fira Code Regular&amp;quot;, Consolas, &amp;quot;Microsoft YaHei&amp;quot;, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 20px; line-height: 30px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;Conv2d&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="481" y="245" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e7FZ7yTMrjuhfx7ml-sJ-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="441" y="189" width="889" height="174" as="geometry" />
-        </mxCell>
         <mxCell id="e7FZ7yTMrjuhfx7ml-sJ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e7FZ7yTMrjuhfx7ml-sJ-18" target="e7FZ7yTMrjuhfx7ml-sJ-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -69,6 +69,9 @@
         </mxCell>
         <mxCell id="e7FZ7yTMrjuhfx7ml-sJ-22" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: &amp;quot;JetBrains Mono Medium&amp;quot;, &amp;quot;Fira Code Regular&amp;quot;, Consolas, &amp;quot;Microsoft YaHei&amp;quot;, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 20px; line-height: 30px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;MaxPool2d&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1133" y="245" width="147" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e7FZ7yTMrjuhfx7ml-sJ-25" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="426" y="192" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
