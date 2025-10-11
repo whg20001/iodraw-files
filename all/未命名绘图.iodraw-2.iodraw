@@ -109,8 +109,8 @@
         <mxCell id="e7FZ7yTMrjuhfx7ml-sJ-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="e7FZ7yTMrjuhfx7ml-sJ-37" source="e7FZ7yTMrjuhfx7ml-sJ-30" target="e7FZ7yTMrjuhfx7ml-sJ-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e7FZ7yTMrjuhfx7ml-sJ-39" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1593" y="169" width="60" height="30" as="geometry" />
+        <mxCell id="e7FZ7yTMrjuhfx7ml-sJ-39" value="动态计算CNN的输出特征" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1584" y="160" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
