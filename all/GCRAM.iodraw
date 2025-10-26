@@ -88,8 +88,8 @@
         <mxCell id="e7FZ7yTMrjuhfx7ml-sJ-28" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="e7FZ7yTMrjuhfx7ml-sJ-37" vertex="1">
           <mxGeometry y="10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e7FZ7yTMrjuhfx7ml-sJ-29" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;随机数组&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="e7FZ7yTMrjuhfx7ml-sJ-37" vertex="1">
-          <mxGeometry x="20" y="19" width="80" height="42" as="geometry" />
+        <mxCell id="e7FZ7yTMrjuhfx7ml-sJ-29" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;随机数组&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="e7FZ7yTMrjuhfx7ml-sJ-37" vertex="1">
+          <mxGeometry x="20" y="19" width="84" height="42" as="geometry" />
         </mxCell>
         <mxCell id="e7FZ7yTMrjuhfx7ml-sJ-33" value="" style="group" parent="e7FZ7yTMrjuhfx7ml-sJ-37" vertex="1" connectable="0">
           <mxGeometry x="193" width="120" height="80" as="geometry" />
