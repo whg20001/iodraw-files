@@ -67,7 +67,7 @@
         <mxCell id="e7FZ7yTMrjuhfx7ml-sJ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="e7FZ7yTMrjuhfx7ml-sJ-26" source="e7FZ7yTMrjuhfx7ml-sJ-20" target="e7FZ7yTMrjuhfx7ml-sJ-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e7FZ7yTMrjuhfx7ml-sJ-20" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: &amp;quot;JetBrains Mono Medium&amp;quot;, &amp;quot;Fira Code Regular&amp;quot;, Consolas, &amp;quot;Microsoft YaHei&amp;quot;, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 20px; line-height: 30px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;ELU&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="e7FZ7yTMrjuhfx7ml-sJ-26" vertex="1">
+        <mxCell id="e7FZ7yTMrjuhfx7ml-sJ-20" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: &amp;quot;JetBrains Mono Medium&amp;quot;, &amp;quot;Fira Code Regular&amp;quot;, Consolas, &amp;quot;Microsoft YaHei&amp;quot;, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 20px; line-height: 30px; white-space: pre;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="e7FZ7yTMrjuhfx7ml-sJ-26" vertex="1">
           <mxGeometry x="406" y="56" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e7FZ7yTMrjuhfx7ml-sJ-22" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: &amp;quot;JetBrains Mono Medium&amp;quot;, &amp;quot;Fira Code Regular&amp;quot;, Consolas, &amp;quot;Microsoft YaHei&amp;quot;, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 20px; line-height: 30px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;MaxPool2d&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="e7FZ7yTMrjuhfx7ml-sJ-26" vertex="1">
@@ -75,6 +75,9 @@
         </mxCell>
         <mxCell id="FPEaPt1B0ThK5vbigfJV-26" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Text&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="e7FZ7yTMrjuhfx7ml-sJ-26">
           <mxGeometry x="58.5" y="62" width="83" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="FPEaPt1B0ThK5vbigfJV-27" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Text&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="e7FZ7yTMrjuhfx7ml-sJ-26">
+          <mxGeometry x="239" y="63" width="83" height="48" as="geometry" />
         </mxCell>
         <mxCell id="e7FZ7yTMrjuhfx7ml-sJ-40" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="623" y="433" width="631" height="169" as="geometry" />
@@ -210,6 +213,9 @@
         </mxCell>
         <mxCell id="FPEaPt1B0ThK5vbigfJV-24" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Conformer&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FPEaPt1B0ThK5vbigfJV-25">
           <mxGeometry width="214" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="FPEaPt1B0ThK5vbigfJV-28" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Text&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="638.5" y="241" width="83" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
