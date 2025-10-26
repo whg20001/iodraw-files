@@ -77,7 +77,7 @@
           <mxGeometry width="118" height="34" as="geometry" />
         </mxCell>
         <mxCell id="e7FZ7yTMrjuhfx7ml-sJ-40" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="646" y="463" width="631" height="169" as="geometry" />
+          <mxGeometry x="628" y="433" width="631" height="169" as="geometry" />
         </mxCell>
         <mxCell id="e7FZ7yTMrjuhfx7ml-sJ-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="e7FZ7yTMrjuhfx7ml-sJ-40" vertex="1">
           <mxGeometry width="631" height="169" as="geometry" />
@@ -144,6 +144,9 @@
         </mxCell>
         <mxCell id="e7FZ7yTMrjuhfx7ml-sJ-52" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Transformer&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="e7FZ7yTMrjuhfx7ml-sJ-53" vertex="1">
           <mxGeometry width="120" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="FPEaPt1B0ThK5vbigfJV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="e7FZ7yTMrjuhfx7ml-sJ-24" target="e7FZ7yTMrjuhfx7ml-sJ-38">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
