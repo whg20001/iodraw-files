@@ -226,6 +226,12 @@
         <mxCell id="FPEaPt1B0ThK5vbigfJV-31" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;EEGNET&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="772" y="1094" width="265" height="108" as="geometry" />
         </mxCell>
+        <mxCell id="FPEaPt1B0ThK5vbigfJV-33" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="763" y="1329" width="283" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="FPEaPt1B0ThK5vbigfJV-34" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;EEGNET&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="772" y="1342" width="265" height="108" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
