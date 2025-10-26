@@ -73,6 +73,9 @@
         <mxCell id="e7FZ7yTMrjuhfx7ml-sJ-22" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: &amp;quot;JetBrains Mono Medium&amp;quot;, &amp;quot;Fira Code Regular&amp;quot;, Consolas, &amp;quot;Microsoft YaHei&amp;quot;, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 20px; line-height: 30px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;MaxPool2d&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="e7FZ7yTMrjuhfx7ml-sJ-26" vertex="1">
           <mxGeometry x="576" y="56" width="147" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="FPEaPt1B0ThK5vbigfJV-26" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="e7FZ7yTMrjuhfx7ml-sJ-26">
+          <mxGeometry x="70" y="57" width="83" height="48" as="geometry" />
+        </mxCell>
         <mxCell id="e7FZ7yTMrjuhfx7ml-sJ-40" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="623" y="433" width="631" height="169" as="geometry" />
         </mxCell>
