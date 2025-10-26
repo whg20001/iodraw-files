@@ -163,8 +163,8 @@
         <mxCell id="e7FZ7yTMrjuhfx7ml-sJ-39" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;动态计算CNN的输出特征&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="623" y="376" width="180" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="e7FZ7yTMrjuhfx7ml-sJ-25" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;CNN部分&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="492" y="125" width="118" height="34" as="geometry" />
+        <mxCell id="e7FZ7yTMrjuhfx7ml-sJ-25" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;CNN部分&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="562" y="123" width="118" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
