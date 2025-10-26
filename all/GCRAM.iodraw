@@ -112,8 +112,8 @@
         <mxCell id="e7FZ7yTMrjuhfx7ml-sJ-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="e7FZ7yTMrjuhfx7ml-sJ-37" source="e7FZ7yTMrjuhfx7ml-sJ-30" target="e7FZ7yTMrjuhfx7ml-sJ-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e7FZ7yTMrjuhfx7ml-sJ-39" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;动态计算CNN的输出特征&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="e7FZ7yTMrjuhfx7ml-sJ-40" vertex="1">
-          <mxGeometry width="159" height="42" as="geometry" />
+        <mxCell id="e7FZ7yTMrjuhfx7ml-sJ-39" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;动态计算CNN的输出特征&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="e7FZ7yTMrjuhfx7ml-sJ-40" vertex="1">
+          <mxGeometry width="180" height="57" as="geometry" />
         </mxCell>
         <mxCell id="e7FZ7yTMrjuhfx7ml-sJ-53" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1778" y="443" width="453" height="156" as="geometry" />
