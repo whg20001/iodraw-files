@@ -82,7 +82,7 @@
         <mxCell id="FPEaPt1B0ThK5vbigfJV-28" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;ELU&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="e7FZ7yTMrjuhfx7ml-sJ-26">
           <mxGeometry x="424.5" y="63" width="83" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="FPEaPt1B0ThK5vbigfJV-29" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Text&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="e7FZ7yTMrjuhfx7ml-sJ-26">
+        <mxCell id="FPEaPt1B0ThK5vbigfJV-29" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;MaxPool&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="e7FZ7yTMrjuhfx7ml-sJ-26">
           <mxGeometry x="608" y="63" width="83" height="48" as="geometry" />
         </mxCell>
         <mxCell id="e7FZ7yTMrjuhfx7ml-sJ-40" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -179,7 +179,7 @@
           <mxGeometry x="562" y="123" width="118" height="34" as="geometry" />
         </mxCell>
         <mxCell id="FPEaPt1B0ThK5vbigfJV-25" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="740" y="1143" width="861" height="243" as="geometry" />
+          <mxGeometry x="504" y="1433" width="861" height="243" as="geometry" />
         </mxCell>
         <mxCell id="FPEaPt1B0ThK5vbigfJV-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FPEaPt1B0ThK5vbigfJV-25">
           <mxGeometry y="74" width="861" height="169" as="geometry" />
