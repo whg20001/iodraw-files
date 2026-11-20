@@ -40,7 +40,7 @@
         <mxCell id="drXh23H-NoJyjBQbCX_v-12" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Local branch&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="346.18" y="-8.75" width="127" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="drXh23H-NoJyjBQbCX_v-13" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Local branch&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="drXh23H-NoJyjBQbCX_v-13" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Regional branch&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="343.14" y="161" width="127" height="30" as="geometry" />
         </mxCell>
       </root>
