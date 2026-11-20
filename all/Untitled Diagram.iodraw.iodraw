@@ -66,8 +66,20 @@
         </mxCell>
         <mxCell id="drXh23H-NoJyjBQbCX_v-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="506" y="79" as="sourcePoint" />
-            <mxPoint x="546" y="79" as="targetPoint" />
+            <mxPoint x="502" y="241.07" as="sourcePoint" />
+            <mxPoint x="542" y="241.07" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="drXh23H-NoJyjBQbCX_v-25" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="570.38" y="216.63" width="92.25" height="89.75" as="geometry" />
+        </mxCell>
+        <mxCell id="drXh23H-NoJyjBQbCX_v-26" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Logistic&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Regression&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="572.76" y="240.01" width="87.5" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="drXh23H-NoJyjBQbCX_v-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="522" y="261.07" as="sourcePoint" />
+            <mxPoint x="562" y="261.07" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
