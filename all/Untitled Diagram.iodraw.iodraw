@@ -37,7 +37,7 @@
             <mxPoint x="266" y="423" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="drXh23H-NoJyjBQbCX_v-12" value="Local branch" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="drXh23H-NoJyjBQbCX_v-12" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Local branch&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="346.19" y="-16" width="127" height="30" as="geometry" />
         </mxCell>
       </root>
