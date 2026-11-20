@@ -55,7 +55,7 @@
         <mxCell id="drXh23H-NoJyjBQbCX_v-16" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="554.5" y="6.5" width="99" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="drXh23H-NoJyjBQbCX_v-18" value="Logistic Regression" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="drXh23H-NoJyjBQbCX_v-18" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Logistic Regression&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="543" y="54" width="127" height="30" as="geometry" />
         </mxCell>
       </root>
