@@ -37,8 +37,8 @@
             <mxPoint x="266" y="423" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="drXh23H-NoJyjBQbCX_v-12" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="374" y="-19" width="60" height="30" as="geometry" />
+        <mxCell id="drXh23H-NoJyjBQbCX_v-12" value="Local branch" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="346.19" y="-16" width="127" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
