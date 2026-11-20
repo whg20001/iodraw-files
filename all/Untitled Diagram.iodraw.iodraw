@@ -97,6 +97,30 @@
         <mxCell id="drXh23H-NoJyjBQbCX_v-31" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Times New Roman&quot;&gt;Score&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="693" y="54" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="drXh23H-NoJyjBQbCX_v-32" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="699" y="218" width="47" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="drXh23H-NoJyjBQbCX_v-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="648" y="241.07" as="sourcePoint" />
+            <mxPoint x="688" y="241.07" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="drXh23H-NoJyjBQbCX_v-34" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Times New Roman&quot;&gt;Score&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="693" y="226.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="drXh23H-NoJyjBQbCX_v-35" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="719" y="65.5" width="47" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="drXh23H-NoJyjBQbCX_v-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="668" y="88.57" as="sourcePoint" />
+            <mxPoint x="708" y="88.57" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="drXh23H-NoJyjBQbCX_v-37" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Times New Roman&quot;&gt;Score&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="713" y="74" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
