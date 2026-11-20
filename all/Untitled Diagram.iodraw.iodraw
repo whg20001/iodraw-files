@@ -59,10 +59,16 @@
           <mxGeometry x="550.38" y="47.5" width="87.5" height="43" as="geometry" />
         </mxCell>
         <mxCell id="drXh23H-NoJyjBQbCX_v-19" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="558" y="34.120000000000005" width="92.25" height="89.75" as="geometry" />
+          <mxGeometry x="550.38" y="196.63" width="92.25" height="89.75" as="geometry" />
         </mxCell>
         <mxCell id="drXh23H-NoJyjBQbCX_v-20" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Logistic&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Regression&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560.38" y="57.5" width="87.5" height="43" as="geometry" />
+          <mxGeometry x="552.76" y="220.01" width="87.5" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="drXh23H-NoJyjBQbCX_v-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="506" y="79" as="sourcePoint" />
+            <mxPoint x="546" y="79" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
