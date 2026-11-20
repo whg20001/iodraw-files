@@ -52,13 +52,8 @@
             <mxPoint x="536" y="69" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="drXh23H-NoJyjBQbCX_v-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="drXh23H-NoJyjBQbCX_v-16">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="671.0862294072692" y="69.13043478260875" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="drXh23H-NoJyjBQbCX_v-16" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="514" y="47" width="99" height="44" as="geometry" />
+        <mxCell id="drXh23H-NoJyjBQbCX_v-16" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="546" y="15" width="99" height="108" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
