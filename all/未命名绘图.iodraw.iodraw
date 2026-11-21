@@ -5,12 +5,12 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="48T9Qx3XSNQtY_JTMuRQ-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="51" y="352" width="507" height="70" as="geometry" />
+          <mxGeometry x="77" y="316" width="507" height="70" as="geometry" />
         </mxCell>
         <mxCell id="48T9Qx3XSNQtY_JTMuRQ-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="119" y="71" width="447" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="48T9Qx3XSNQtY_JTMuRQ-3" value="Hermes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="48T9Qx3XSNQtY_JTMuRQ-3" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Hermes&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="132.5" y="86.75" width="420" height="58.5" as="geometry" />
         </mxCell>
       </root>
