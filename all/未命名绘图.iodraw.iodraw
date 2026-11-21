@@ -13,7 +13,7 @@
         <mxCell id="48T9Qx3XSNQtY_JTMuRQ-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="119" y="239" width="447" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="48T9Qx3XSNQtY_JTMuRQ-6" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Hermes&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="48T9Qx3XSNQtY_JTMuRQ-6" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;contract API&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="132.5" y="254.75" width="420" height="58.5" as="geometry" />
         </mxCell>
       </root>
