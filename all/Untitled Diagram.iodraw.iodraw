@@ -272,10 +272,16 @@
           <mxGeometry x="1124.74" y="466.75" width="121.45" height="27.25" as="geometry" />
         </mxCell>
         <mxCell id="-n-hT3g-6XXC-yF9pKEc-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="744" y="568" width="120" height="60" as="geometry" />
+          <mxGeometry x="744" y="568" width="97" height="46" as="geometry" />
         </mxCell>
         <mxCell id="-n-hT3g-6XXC-yF9pKEc-2" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;Local&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="774" y="583" width="60" height="30" as="geometry" />
+          <mxGeometry x="762.5" y="576" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-n-hT3g-6XXC-yF9pKEc-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="754" y="578" width="97" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="-n-hT3g-6XXC-yF9pKEc-4" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;Local&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="772.5" y="586" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
