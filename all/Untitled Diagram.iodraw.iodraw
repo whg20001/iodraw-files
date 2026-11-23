@@ -418,11 +418,11 @@
         <mxCell id="-n-hT3g-6XXC-yF9pKEc-71" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDkiIGhlaWdodD0iMTAxIiB2aWV3Qm94PSIwIDAgMTA5IDEwMSIKICAgICByb2xlPSJpbWciIGFyaWEtbGFiZWxsZWRieT0idGl0bGUiPgogIDx0aXRsZSBpZD0idGl0bGUiPk9yYW5nZSBmbGFtZTwvdGl0bGU+CiAgPHBhdGggZmlsbD0iI2Q0NWM0MyIKICAgICAgICBkPSJNNDUuMiA2LjcKICAgICAgICAgICBDNTYuNyAxMS4yIDY1LjggMjIuOCA2NyA0MS4zCiAgICAgICAgICAgQzY5LjMgMzkuNyA3MS43IDM2LjggNzMuNSAzNC4zCiAgICAgICAgICAgQzc5LjggNDMuMyA4Ny4xIDU2LjEgODYuNyA2NS44CiAgICAgICAgICAgQzg2LjEgNzguOSA3NC4zIDg3LjcgNTguNiA5Mi4yCiAgICAgICAgICAgQzY1LjEgODIuOSA2NS4zIDc0IDU3LjggNjYuNwogICAgICAgICAgIEM1Mi45IDYyLjIgNDguOCA1OC43IDUwLjEgNTIuMwogICAgICAgICAgIEM0MS4yIDU3LjEgMzUuMSA2NS42IDM1LjIgNzMuNAogICAgICAgICAgIEMzNS4zIDgxLjEgMzkuOCA4Ny41IDQzLjcgOTIuMwogICAgICAgICAgIEMyNy4xIDg2LjQgMTcuNyA3Ny45IDE3LjcgNjYuMQogICAgICAgICAgIEMxNy43IDU0LjkgMjMuNCA0Ny43IDMyLjMgMzkuNAogICAgICAgICAgIEM0MC44IDMxLjYgNDMuOSAxNy4zIDQ1LjIgNi43IFoiLz4KPC9zdmc+Cg==;" vertex="1" parent="1">
           <mxGeometry x="1138.49" y="49.860000000000014" width="21.19" height="19.64" as="geometry" />
         </mxCell>
-        <mxCell id="-n-hT3g-6XXC-yF9pKEc-73" value="Freeze" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1177" y="7.93" width="60" height="30" as="geometry" />
+        <mxCell id="-n-hT3g-6XXC-yF9pKEc-73" value="Freeze Params" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1177" y="7.93" width="102" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-n-hT3g-6XXC-yF9pKEc-74" value="Adaptive" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1177" y="44.68" width="60" height="30" as="geometry" />
+        <mxCell id="-n-hT3g-6XXC-yF9pKEc-74" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Adaptive Params&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1177" y="44.68" width="126" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
